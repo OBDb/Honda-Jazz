@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Honda_Fit"
+
 generations:
   - name: "First Generation"
     start_year: 2001
@@ -11,7 +14,7 @@ generations:
 
   - name: "Third Generation"
     start_year: 2013
-    end_year: 2020
+    end_year: 2022
     description: "The third-generation Jazz featured more angular styling with a strong character line and a more prominent front end. While maintaining similar exterior dimensions to its predecessor, interior space improved further with class-leading rear legroom. The 'Magic Seat' system continued as a key feature, with refinements for even easier operation. Engine options varied by market but typically centered around efficient 1.3L to 1.5L four-cylinders, with hybrid variants available in some regions using Honda's i-DCD system that combined a 1.5L engine with an electric motor. The interior saw significant improvements in materials, design, and technology, featuring a touchscreen infotainment system on higher trims with smartphone connectivity. Safety technology advanced with the availability of Honda Sensing driver assistance features on later models. This generation maintained the Jazz's position as a space-efficient, versatile subcompact while adding more refinement and technology to appeal to increasingly sophisticated consumers."
 
   - name: "Fourth Generation"
