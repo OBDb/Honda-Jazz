@@ -1,0 +1,8 @@
+model_year: 2004
+unsupported_commands_by_ecu:
+  "DA10":
+  - DA10.10.222615:HONDA_ACTIVE_CYL
+  "DA1E":
+  - DA1E.1E.223083:HONDA_ATF_T_V2
+  "DA60":
+  - DA60.60.227028|fc=1:HONDA_AAT
